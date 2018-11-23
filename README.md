@@ -106,6 +106,6 @@ body::before {
 <br><br>
 
 <!-- フッタ -->
- <footer>
+ <footer><span class="snow">
  Copyright 2018/11/23 S.Hada
- </footer>
+ </span></footer>
