@@ -96,7 +96,7 @@ body::before {
 <a href="20181123_36.JPG" data-lightbox="abc"><img src="20181123_36.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181123_37.JPG" data-lightbox="abc"><img src="20181123_37.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181123_38.JPG" data-lightbox="abc"><img src="20181123_38.JPG" alt="サンプル画像" width="180" /></a>
-
+</div>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
