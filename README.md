@@ -98,6 +98,19 @@ body::before {
 <a href="20181123_38.JPG" data-lightbox="abc"><img src="20181123_38.JPG" alt="サンプル画像" width="180" /></a>
 </div>
 
+<div id="wrap">
+<div style="background-color:rgb(255,255,255,0.3);">
+<h3><span class="white">おまけ、11月24日(土)、鬼怒川グリーンパーク</span></h3>
+<a href="20181124_01.JPG" data-lightbox="abc"><img src="20181124_01.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181124_02.JPG" data-lightbox="abc"><img src="20181124_02.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181124_03.JPG" data-lightbox="abc"><img src="20181124_03.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181124_04.JPG" data-lightbox="abc"><img src="20181124_04.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181124_05.JPG" data-lightbox="abc"><img src="20181124_05.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181124_06.JPG" data-lightbox="abc"><img src="20181124_06.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181124_07.JPG" data-lightbox="abc"><img src="20181124_07.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181124_08.JPG" data-lightbox="abc"><img src="20181124_08.JPG" alt="サンプル画像" width="180" /></a>
+</div>
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
