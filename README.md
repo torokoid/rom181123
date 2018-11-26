@@ -118,7 +118,7 @@ body::before {
 
 
 <br><br>
-
+<p align="right"><marquee direction="left" scrollamount="20" width="100%">背景は鬼怒川グリーンパーク、2018/11/24 撮影 ~~~ (^^)/</marquee></p>
 <!-- フッタ -->
  <footer><span class="snow">
  Copyright 2018/11/23 S.Hada
